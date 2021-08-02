@@ -39,10 +39,10 @@
       <br />
       <br />
 <label for="delimiter">Source File Row Separator</label>
-      <input type="text" name="upload_delimiter" value=";" style="width:25px; padding:2px 5px; font-weight:bold;"/> - Leave alone if you are not sure
+      <input type="text" name="upload_delimiter" value="," style="width:25px; padding:2px 5px; font-weight:bold;"/> - Leave alone if you are not sure
       <br /><br />
 <label for="delimiter">Output File Row Separator</label>
-      <input type="text" name="download_delimiter" value=";" style="width:25px; padding:2px 5px; font-weight:bold;"/> - Leave alone if you are not sure
+      <input type="text" name="download_delimiter" value="," style="width:25px; padding:2px 5px; font-weight:bold;"/> - Leave alone if you are not sure
       <br /><br />
       <input type="submit" name="btnupload" value="Process CSV File" />
     </form>
